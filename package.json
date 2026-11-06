@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node tools/verify.cjs",
     "serve": "node tools/serve.cjs",
-    "android:add": "cap add android && capacitor-assets generate --android --iconBackgroundColor #146653 --iconBackgroundColorDark #0f1f1a --splashBackgroundColor #146653 --splashBackgroundColorDark #0f1f1a",
+    "android:add": "cap add android && capacitor-assets generate --android --iconBackgroundColor \"#146653\" --iconBackgroundColorDark \"#0f1f1a\" --splashBackgroundColor \"#146653\" --splashBackgroundColorDark \"#0f1f1a\"",
     "android:sync": "cap sync android"
   },
   "dependencies": {
