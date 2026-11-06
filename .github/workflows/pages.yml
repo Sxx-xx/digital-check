@@ -1,4 +1,5 @@
 name: Deploy web (GitHub Pages)
+# Web app is served from www/ at https://sxx-xx.github.io/digital-check/
 
 on:
   push:

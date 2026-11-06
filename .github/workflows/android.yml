@@ -1,4 +1,5 @@
 name: Build Android app
+# Builds the test APK (Releases: android-test) and, with signing secrets, the Play AAB.
 
 on:
   push:
