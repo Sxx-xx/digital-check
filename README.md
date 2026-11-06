@@ -3,7 +3,7 @@
 자동차를 팔거나 이사 가기 전, 차량·스마트홈에 남은 내 정보와 접근 권한을 단계별로 점검하는 자가 체크리스트 앱입니다.
 
 - 웹: https://sxx-xx.github.io/digital-check/
-- 안드로이드: Google Play 출시 준비 중
+- 안드로이드: Google Play 출시 준비 중 · [테스트 APK 받기](https://github.com/Sxx-xx/digital-check/releases/tag/android-test)
 
 계정, 서버, 분석·광고 도구 없이 동작합니다. 점검 기록은 사용자의 기기에만 저장됩니다. ([개인정보처리방침](https://sxx-xx.github.io/digital-check/privacy.html))
 
