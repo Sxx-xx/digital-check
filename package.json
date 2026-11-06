@@ -1,0 +1,22 @@
+{
+  "name": "digital-check",
+  "version": "1.0.0",
+  "private": true,
+  "description": "자동차 양도·스마트홈 이사 전 개인정보·접근 권한 자가점검 앱",
+  "scripts": {
+    "test": "node tools/verify.cjs",
+    "serve": "node tools/serve.cjs",
+    "android:add": "cap add android && capacitor-assets generate --android --iconBackgroundColor #146653 --iconBackgroundColorDark #0f1f1a --splashBackgroundColor #146653 --splashBackgroundColorDark #0f1f1a",
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/filesystem": "^7.0.0",
+    "@capacitor/share": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^7.0.0"
+  }
+}

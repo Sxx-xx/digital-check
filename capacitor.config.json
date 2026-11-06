@@ -1,0 +1,9 @@
+{
+  "appId": "io.github.sxxxx.digitalcheck",
+  "appName": "디지털 안심 체크",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false
+  }
+}
